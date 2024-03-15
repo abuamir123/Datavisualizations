@@ -1,0 +1,10 @@
+.heading_Layout{
+    display: flex;
+    justify-content: center;
+    height: 2.5em;
+    align-items: center;
+}
+.Main_Layout{
+    margin-top: 1px;
+    height: 500px;
+}
